@@ -1,0 +1,27 @@
+// console.log('hello');
+// let elem=document.createElement('li');
+// elem.className='ul4';
+// elem.id='createdli';
+// elem.setAttribute('title', 'myTitle');
+// // elem.innerText='it is created by Harsh';
+// elem.innerHTML='<b>it is created by Harsh</b>';
+// let ul=document.querySelector('ul.this');
+// ul.appendChild(elem);
+// console.log(elem);
+// let elem2=document.createElement('h3');
+// elem2.id='new';
+// elem2.className='elem2';
+// let tnode=document.createTextNode('this is sub heading');
+// elem2.appendChild(tnode);
+// elem.replaceWith(elem2);
+//create a heading elementing with text as go to google
+// let elem=document.createElement('h3');
+// elem.id='new';
+// elem.className='elem2';
+// elem.textContent='this is new heading';
+// let newElem=document.createElement('a');
+// newElem.setAttribute('href','www.google.com');
+// console.log(newElem);
+// let take=document.getElementById('coolhead');
+// console.log(elem);
+// take.replaceWith(elem);

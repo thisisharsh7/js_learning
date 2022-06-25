@@ -1,0 +1,27 @@
+// console.log('hello world');
+// let x=5;
+// let y=19;
+// let z;
+// z=x+y;
+// z=x-y;
+// z=x*y;
+// z=x/y;
+// z=x
+// // console.log(z);
+// //exploring math object;
+// z=Math;
+// z=Math.PI;
+// z=Math.E;
+// z=Math.round(5.3);
+// z=Math.ceil(5.3);
+// z=Math.floor(-5.6);
+// z=Math.abs(-4.5);
+// z=Math.sqrt(49);
+// z=Math.pow(2,3);
+// z=Math.min(3,2,1,0,-1);
+// z=Math.max(3,2,1,-2,23);
+// z=Math.random();
+// z=Math.random()*100;
+// z=Math.ceil(Math.random()*90)+10;
+// z=Math.floor(Math.random()*6)+1;
+// console.log(z);
